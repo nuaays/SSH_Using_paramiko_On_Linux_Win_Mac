@@ -65,6 +65,26 @@ ssh.close()
 
 
 
+"""
+HELP For paramiko
+
+Github
+https://github.com/paramiko/paramiko
+
+
+
+invoke_shell()
+http://docs.paramiko.org/en/1.15/api/channel.html?highlight=invoke#paramiko.channel.Channel.invoke_shell
+http://docs.paramiko.org/en/1.15/api/client.html?highlight=invoke#paramiko.client.SSHClient.invoke_shell
+
+
+
+
+"""
+
+
+
+
 
 
 
