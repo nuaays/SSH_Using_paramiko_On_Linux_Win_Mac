@@ -5,7 +5,7 @@
 
 import os, sys, platform, shutil
 sys.path.append( os.path.dirname( os.path.abspath(__file__) ) )
-print os.path.dirname( os.path.abspath(__file__) )
+sys.path.append( '..' )
 
 """
 """
